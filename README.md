@@ -1,3 +1,5 @@
+Forbes-Billionaires-Analysis
+
 The Forbes Billionaires Analysis project provides a comprehensive exploration of the world's billionaires using data from Forbes. The accompanying Jupyter Notebook (forbes-Billionaires-Analysis.ipynb) contains detailed analysis, visualizations, and insights derived from the Forbes billionaires dataset.
 
 Features:
